@@ -1,0 +1,131 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1086px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 317px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 317px;
+  margin: -302px 15px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 570px;
+  height: 317px;
+  margin: -15px 0 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 570px;
+  height: 317px;
+  margin: -272px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1030px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 470px;
+    height: 261px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -246px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1461px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 570px;
+    height: 329px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 34px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 34px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 113px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1393px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 312px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 300px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 540px;
+    height: 300px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 540px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 945px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 196px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 189px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 189px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 189px;
+    margin-top: 47px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}

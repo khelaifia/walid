@@ -1,0 +1,33 @@
+ .u-section-1 {
+  background-image: url("images/tlchargement.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 818px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 674px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 516px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 387px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 244px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 668px;
+}
